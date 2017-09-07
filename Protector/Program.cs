@@ -7,7 +7,7 @@ namespace Protector
     {
         /// <summary>
         /// The main entry point for the application.
-        /// Test 1
+        /// Test 2
         /// </summary>
         [STAThread]
         static void Main()
